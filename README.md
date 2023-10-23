@@ -200,6 +200,9 @@ The NGO should also take into considertion the following findings identified thr
 3. "Never pay" water pumps are prevalent in Tanzania however they have a higher number of non-functioning water points compared to functioning ones. Conversely, categories involving payments show a positive correlation between payment presence and water point functionality, making payment systems a factor to consider.
 4. The status of water points varies across different water basins, with some basins, like Lake Rukwa, experiencing a high number of non-functional points. Urgent maintenance and attention are necessary in these areas to secure clean and reliable water sources for the communities. These disparities underscore the need for targeted interventions and improvements.
 5. Total Static Head measurement, may serve as a valuable predictor for pump functionality. When "amount_tsh" is zero, there is an equal likelihood of functional and non-functional pumps, but an increase in "amount_tsh" corresponds to a higher likelihood of functionality. These insights can inform the NGO's strategies for improving clean water access in Tanzania
+6. Water points with zero recorded populations tend to have a higher proportion of non-functional pumps. However, there is a clear correlation between population and water point functionality. As population increases, the number of both functional and non-functional pumps rises, but functional pumps remain more prevalent. The highest concentration of water points occurs in areas with around 7,000 people.
+7. There is a distinct correlation between the age of water pumps and their functionality. Older pumps, built between approximately 1960 and 1988, are often non-functional, while newer pumps constructed after 1988 are more likely to be in working condition.
+
 
 ## Study Limitations
 
