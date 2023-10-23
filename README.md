@@ -217,3 +217,6 @@ Class imbalance in the target variable was addressed using SMOTE, but it had lim
 2. Evaluate a broader range of machine learning algorithms, including ensemble methods, and  gradient boosting, to identify the most suitable algorithms for this classification task. A more comprehensive model selection process may reveal models that perform better than the ones tested.
 3. Collect more diverse and comprehensive data, especially concerning well characteristics, water quality, geological factors, and socioeconomic information of the regions. This additional data can contribute to a better understanding of water pump functionality and further improve predictive models particularly when it comes to issues of class imbalance.
 
+## Further Information
+- The project presentation can be viewed through this [link](https://storymaps.arcgis.com/stories/bb62dd48334f423d8b73168b5d575e61)
+- The code for all models tested can be viewed on my [Jupyter Notebook](https://github.com/YKamari/Faulty-Water-Pump-Detection-in-Tanzania/blob/main/water_wells_notebook.ipynb)
